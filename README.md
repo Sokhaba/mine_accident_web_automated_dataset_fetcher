@@ -45,3 +45,5 @@ import pandas as pd
 file_path = "/content/extracted_files_directory/" + target_file[0]
 df = pd.read_csv(file_path, delimiter="|", encoding='latin1')
 ```
+### Final
+You can visualize the data set with a tool of your liking or use this code to scrap any other site that downloads a zip file.

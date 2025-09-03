@@ -1,4 +1,4 @@
-# Mine Accidents Dataset Web Scrapper
+# Automated Dataset Fetcher
 
 This dataset contains information on mine accidents from the year 2000 to 2022. The data has been collected from the Mine Safety and Health Administration (MSHA), and sensitive information has been excluded during the data encoding process. The dataset consists of 255,585 accidents, each described by 57 features.
 
